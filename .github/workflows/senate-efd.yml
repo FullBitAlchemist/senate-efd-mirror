@@ -1,0 +1,40 @@
+name: Senate eFD mirror
+
+# Scrapes efdsearch.senate.gov from GitHub's (non-blocked) runners and commits a
+# JSON the trading agent reads via raw.githubusercontent.com — the DigitalOcean
+# droplet's own IP is edge-blocked by the Senate site, so this is its way in.
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours (offset so we're not on the hour)
+  workflow_dispatch: {}        # allow manual runs
+
+permissions:
+  contents: write              # to commit the refreshed JSON
+
+concurrency:
+  group: senate-efd
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Scrape Senate eFD
+        run: python scripts/senate_efd_scrape.py data/senate_efd.json 45
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/senate_efd.json data/senate_efd_meta.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh Senate eFD mirror [skip ci]"
+            git push
+          fi
