@@ -4526,13 +4526,5 @@
 "transaction_date": "2026-06-29",
 "disclosure_date": "2026-07-02",
 "amount": "$1,001 - $15,000"
-},
-{
-"ticker": "WFC",
-"senator": "A. Mitchell McConnell, Jr.",
-"type": "Purchase",
-"transaction_date": "2026-06-01",
-"disclosure_date": "2026-06-30",
-"amount": "$1,001 - $15,000"
 }
 ]
