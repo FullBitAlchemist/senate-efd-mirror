@@ -4518,13 +4518,5 @@
 "transaction_date": "2026-06-25",
 "disclosure_date": "2026-07-08",
 "amount": "$1,001 - $15,000"
-},
-{
-"ticker": "T",
-"senator": "Gary C Peters",
-"type": "Purchase",
-"transaction_date": "2026-06-29",
-"disclosure_date": "2026-07-02",
-"amount": "$1,001 - $15,000"
 }
 ]
