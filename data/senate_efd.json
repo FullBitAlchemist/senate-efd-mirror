@@ -1,5 +1,69 @@
 [
 {
+"ticker": "UNH",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-16",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "ORCL",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-16",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "MSFT",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-22",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "MSFT",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-16",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "META",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-15",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "HYG",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-09",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "CBOE",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-08",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "AVGO",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2025-04-08",
+"disclosure_date": "2026-08-20",
+"amount": "$1,001 - $15,000"
+},
+{
 "ticker": "CBOE",
 "senator": "John Boozman",
 "type": "Sale (Full)",
