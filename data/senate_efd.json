@@ -4662,53 +4662,5 @@
 "transaction_date": "2026-06-04",
 "disclosure_date": "2026-07-13",
 "amount": "$1,001 - $15,000"
-},
-{
-"ticker": "AAPL",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-06-24",
-"disclosure_date": "2026-07-08",
-"amount": "$15,001 - $50,000"
-},
-{
-"ticker": "AAPL",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-06-24",
-"disclosure_date": "2026-07-08",
-"amount": "$15,001 - $50,000"
-},
-{
-"ticker": "CCI",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Full)",
-"transaction_date": "2026-06-25",
-"disclosure_date": "2026-07-08",
-"amount": "$1,001 - $15,000"
-},
-{
-"ticker": "NVDA",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-06-30",
-"disclosure_date": "2026-07-08",
-"amount": "$15,001 - $50,000"
-},
-{
-"ticker": "COHR",
-"senator": "Sheldon Whitehouse",
-"type": "Purchase",
-"transaction_date": "2026-06-25",
-"disclosure_date": "2026-07-08",
-"amount": "$15,001 - $50,000"
-},
-{
-"ticker": "MU",
-"senator": "Sheldon Whitehouse",
-"type": "Purchase",
-"transaction_date": "2026-06-25",
-"disclosure_date": "2026-07-08",
-"amount": "$1,001 - $15,000"
 }
 ]
