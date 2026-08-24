@@ -1,5 +1,117 @@
 [
 {
+"ticker": "VEA",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "VNQI",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "TPYP",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "CRM",
+"senator": "John Boozman",
+"type": "Sale (Full)",
+"transaction_date": "2025-11-13",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "RNWGX",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-20",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "LLY",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "IVV",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "IWM",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "EFA",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-20",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "AAXJ",
+"senator": "John Boozman",
+"type": "Sale (Full)",
+"transaction_date": "2025-11-06",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "GEM",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-20",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "FISV",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "FTGC",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "EIPI",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2025-11-21",
+"disclosure_date": "2026-08-24",
+"amount": "$1,001 - $15,000"
+},
+{
 "ticker": "UNH",
 "senator": "John Boozman",
 "type": "Purchase",
