@@ -1,5 +1,45 @@
 [
 {
+"ticker": "SDZNY",
+"senator": "Sheldon Whitehouse",
+"type": "Sale (Full)",
+"transaction_date": "2026-08-06",
+"disclosure_date": "2026-09-02",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "NVDA",
+"senator": "Sheldon Whitehouse",
+"type": "Sale (Partial)",
+"transaction_date": "2026-08-13",
+"disclosure_date": "2026-09-02",
+"amount": "$15,001 - $50,000"
+},
+{
+"ticker": "NVDA",
+"senator": "Sheldon Whitehouse",
+"type": "Sale (Partial)",
+"transaction_date": "2026-08-13",
+"disclosure_date": "2026-09-02",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "LRCX",
+"senator": "Sheldon Whitehouse",
+"type": "Sale (Partial)",
+"transaction_date": "2026-08-13",
+"disclosure_date": "2026-09-02",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "AMGN",
+"senator": "Sheldon Whitehouse",
+"type": "Sale (Partial)",
+"transaction_date": "2026-08-12",
+"disclosure_date": "2026-09-02",
+"amount": "$1,001 - $15,000"
+},
+{
 "ticker": "VEA",
 "senator": "John Boozman",
 "type": "Sale (Partial)",
