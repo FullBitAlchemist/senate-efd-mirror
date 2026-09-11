@@ -1,5 +1,77 @@
 [
 {
+"ticker": "IVV",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2026-08-27",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "JNJ",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2026-08-20",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "WWSYX",
+"senator": "John Boozman",
+"type": "Sale (Full)",
+"transaction_date": "2026-08-19",
+"disclosure_date": "2026-09-11",
+"amount": "$15,001 - $50,000"
+},
+{
+"ticker": "CEG",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2026-08-13",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "OTIS",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-08-27",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "SPYM",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-08-20",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "IJR",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-08-19",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "AVUV",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-08-19",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "FSLR",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-08-13",
+"disclosure_date": "2026-09-11",
+"amount": "$1,001 - $15,000"
+},
+{
 "ticker": "NVDA",
 "senator": "Cory A Booker",
 "type": "Sale (Full)",
