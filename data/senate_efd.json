@@ -1846,13 +1846,5 @@
 "transaction_date": "2026-07-21",
 "disclosure_date": "2026-08-04",
 "amount": "$1,001 - $15,000"
-},
-{
-"ticker": "LOW",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-07-20",
-"disclosure_date": "2026-08-03",
-"amount": "$1,001 - $15,000"
 }
 ]
