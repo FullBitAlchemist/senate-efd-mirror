@@ -494,13 +494,5 @@
 "transaction_date": "2026-07-02",
 "disclosure_date": "2026-08-17",
 "amount": "$1,001 - $15,000"
-},
-{
-"ticker": "BERY",
-"senator": "Ron L Wyden",
-"type": "Exchange",
-"transaction_date": "2025-04-30",
-"disclosure_date": "2026-08-08",
-"amount": "$100,001 - $250,000"
 }
 ]
