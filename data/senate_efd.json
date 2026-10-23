@@ -1,5 +1,13 @@
 [
 {
+"ticker": "WMB",
+"senator": "Alan Armstrong",
+"type": "Sale (Full)",
+"transaction_date": "2026-09-08",
+"disclosure_date": "2026-10-22",
+"amount": "$250,001 - $500,000"
+},
+{
 "ticker": "APTV",
 "senator": "John Boozman",
 "type": "Sale (Partial)",
