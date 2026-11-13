@@ -32,6 +32,22 @@
 "amount": "$1,001 - $15,000"
 },
 {
+"ticker": "MSFT",
+"senator": "Sheldon Whitehouse",
+"type": "Sale (Partial)",
+"transaction_date": "2026-10-15",
+"disclosure_date": "2026-11-02",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "AMGN",
+"senator": "Sheldon Whitehouse",
+"type": "Sale (Full)",
+"transaction_date": "2026-10-15",
+"disclosure_date": "2026-11-02",
+"amount": "$15,001 - $50,000"
+},
+{
 "ticker": "STLN",
 "senator": "Richard Blumenthal",
 "type": "Sale (Partial)",
@@ -126,6 +142,14 @@
 "transaction_date": "2026-09-18",
 "disclosure_date": "2026-10-26",
 "amount": "$15,001 - $50,000"
+},
+{
+"ticker": "WMB",
+"senator": "Alan Armstrong",
+"type": "Sale (Full)",
+"transaction_date": "2026-09-08",
+"disclosure_date": "2026-10-22",
+"amount": "$250,001 - $500,000"
 },
 {
 "ticker": "APTV",
@@ -179,6 +203,86 @@
 "ticker": "MU",
 "senator": "John Boozman",
 "type": "Sale (Partial)",
+"transaction_date": "2026-09-09",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "CSCO",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-24",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "O",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-24",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "XTWO",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-21",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "GIGB",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-09",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "JMBS",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-09",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "XFIV",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-09",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "MBB",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-09",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "IEF",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-09",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "TLH",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-09-09",
+"disclosure_date": "2026-10-21",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "CMBS",
+"senator": "John Boozman",
+"type": "Purchase",
 "transaction_date": "2026-09-09",
 "disclosure_date": "2026-10-21",
 "amount": "$1,001 - $15,000"
