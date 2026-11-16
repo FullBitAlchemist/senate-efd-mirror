@@ -286,45 +286,5 @@
 "transaction_date": "2026-09-09",
 "disclosure_date": "2026-10-21",
 "amount": "$1,001 - $15,000"
-},
-{
-"ticker": "JPM",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-09-04",
-"disclosure_date": "2026-10-01",
-"amount": "$15,001 - $50,000"
-},
-{
-"ticker": "ADI",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-09-04",
-"disclosure_date": "2026-10-01",
-"amount": "$1,001 - $15,000"
-},
-{
-"ticker": "V",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-09-04",
-"disclosure_date": "2026-10-01",
-"amount": "$1,001 - $15,000"
-},
-{
-"ticker": "V",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-09-04",
-"disclosure_date": "2026-10-01",
-"amount": "$1,001 - $15,000"
-},
-{
-"ticker": "JPM",
-"senator": "Sheldon Whitehouse",
-"type": "Sale (Partial)",
-"transaction_date": "2026-09-04",
-"disclosure_date": "2026-10-01",
-"amount": "$15,001 - $50,000"
 }
 ]
