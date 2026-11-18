@@ -1,5 +1,37 @@
 [
 {
+"ticker": "CMBS",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2026-10-21",
+"disclosure_date": "2026-11-17",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "TLH",
+"senator": "John Boozman",
+"type": "Sale (Partial)",
+"transaction_date": "2026-10-21",
+"disclosure_date": "2026-11-17",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "HYBB",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-10-21",
+"disclosure_date": "2026-11-17",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "MBB",
+"senator": "John Boozman",
+"type": "Purchase",
+"transaction_date": "2026-10-21",
+"disclosure_date": "2026-11-17",
+"amount": "$1,001 - $15,000"
+},
+{
 "ticker": "ZTS",
 "senator": "Shelley M Capito",
 "type": "Sale (Full)",
