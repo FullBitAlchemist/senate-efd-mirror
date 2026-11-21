@@ -1,5 +1,13 @@
 [
 {
+"ticker": "GS",
+"senator": "Rafael E Cruz",
+"type": "Sale (Partial)",
+"transaction_date": "2026-11-11",
+"disclosure_date": "2026-11-20",
+"amount": "$250,001 - $500,000"
+},
+{
 "ticker": "CMBS",
 "senator": "John Boozman",
 "type": "Sale (Partial)",
