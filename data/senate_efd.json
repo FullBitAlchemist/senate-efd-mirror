@@ -1,5 +1,13 @@
 [
 {
+"ticker": "STLN",
+"senator": "Richard Blumenthal",
+"type": "Sale (Partial)",
+"transaction_date": "2026-11-04",
+"disclosure_date": "2026-11-24",
+"amount": "$1,001 - $15,000"
+},
+{
 "ticker": "GS",
 "senator": "Rafael E Cruz",
 "type": "Sale (Partial)",
