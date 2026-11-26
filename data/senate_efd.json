@@ -1,5 +1,29 @@
 [
 {
+"ticker": "NVDA",
+"senator": "Rand Paul",
+"type": "Purchase",
+"transaction_date": "2026-11-05",
+"disclosure_date": "2026-11-25",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "NVDA",
+"senator": "Rand Paul",
+"type": "Purchase",
+"transaction_date": "2026-11-07",
+"disclosure_date": "2026-11-25",
+"amount": "$1,001 - $15,000"
+},
+{
+"ticker": "NVDA",
+"senator": "Rand Paul",
+"type": "Purchase",
+"transaction_date": "2026-11-09",
+"disclosure_date": "2026-11-25",
+"amount": "$1,001 - $15,000"
+},
+{
 "ticker": "STLN",
 "senator": "Richard Blumenthal",
 "type": "Sale (Partial)",
